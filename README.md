@@ -1,2 +1,5 @@
 # cisco_friend_finder
-connect to cisco routers via telnet and check for default creds
+cisco router default creds finder:
+the file (iplist) must be in the same directory as the script, populate this with a list of ip addresses to check
+the script will test for the username "cisco" and password "cisco"
+edit / copy / steal as you feel free
